@@ -55,7 +55,9 @@ WarpCn 的目标是将这款优秀的终端工具完整地带给中文开发者�
 精益社区是AIGC和OPC时代的"精益算力"与"工程化落地"实践交流基地。
 欢迎加入精益社区！在这里获取Token词元 Router 最佳实践、批处理、云端智能体军团、自动化编码工作流与 OPC 超级个体等实战指南。进群可查看群公告领取精益社区专属10元模力。
 
-<img width="1372" height="1488" alt="飞书20260519-110128" src="https://github.com/user-attachments/assets/3ca9c857-9f90-49ad-a6d8-53787a7c3b52" />
+<p align="center">
+  <img src="http://pinfans-tec.oss-cn-shanghai.aliyuncs.com/lean/20260728-100815.png" width="500" alt="开发者交流群">
+</p>
 
 ## 从源码构建
 
@@ -66,6 +68,7 @@ WarpCn 的目标是将这款优秀的终端工具完整地带给中文开发者�
 ```
 
 详细的工程指南请参阅 [WARP.md](WARP.md)。
+
 
 ## 与原版 Warp 的关系
 
